@@ -29,7 +29,8 @@ This repository contains a dataset with the extracted meta-analytic data and a J
 
 1.  [XXXX_et_al_data.xlsx](https://github.com/lynchjess/Apathy-TBI-meta/raw/refs/heads/main/Lynch_et_al_data.xlsx) - datafile that contains extracted data
 2.  [Burns_et_al_analysis.ipynb](https://github.com/vaughanbell/personality-change-TBI-meta/blob/main/Burns_et_al_analysis.ipynb) - Jupyter notebook that contains the reproducible analysis
-3.  [XXXX_et_al_PROSPERO_Registration.pdf](https://github.com/lynchjess/Apathy-TBI-meta/blob/main/Lynch_et_al_PROSPERO_Registration.pdf) - copy of PROSPERO preregistration
+3.  [Burns_et_al_PROSPERO_Registration.pdf](https://github.com/vaughanbell/personality-change-TBI-meta/blob/main/Burns_et_al_PROSPERO_Registration.pdf) - copy of PROSPERO preregistration
+
 
 ### Platform and package versions
 
