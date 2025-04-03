@@ -20,7 +20,7 @@ Pre-printed as:
 [details here]
 
 ### Preregistration
-This systematic review and meta-analysis was preregistered on PROSPERO with the registration number CRD420234409900. The pre-registration can be accessed [here](https://www.crd.york.ac.uk/PROSPERO/view/CRD420234409900) and a copy is available in this archive.
+This systematic review and meta-analysis was preregistered on PROSPERO with the registration number CRD42023440990. The pre-registration can be accessed [here](https://www.crd.york.ac.uk/PROSPERO/view/CRD42023440990) and a copy is available in this archive.
 
 ### Archive contents
 This archive contains the [R](https://en.wikipedia.org/wiki/R_(programming_language)) code for the analysis reported in the above study. The code is presented as a [Jupyter notebook](https://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/what_is_jupyter.html) which are documents that combine both code and the output in a form that can be viewed online, but also re-run and the results reproduced when accompanied by the original dataset.
