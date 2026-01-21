@@ -27,7 +27,7 @@ This archive contains the [R](https://en.wikipedia.org/wiki/R_(programming_langu
 
 This repository contains a dataset with the extracted meta-analytic data and a Jupyter notebook that reports the analysis and results
 
-1.  [XXXX_et_al_data.xlsx](https://github.com/lynchjess/Apathy-TBI-meta/raw/refs/heads/main/Lynch_et_al_data.xlsx) - datafile that contains extracted data
+1.  [Burns_TBI_PersChange_Data.xlsx](https://github.com/vaughanbell/personality-change-TBI-meta/raw/refs/heads/main/Burns_TBI_PersChange_Data.xlsx) - datafile that contains extracted data
 2.  [Burns_et_al_analysis.ipynb](https://github.com/vaughanbell/personality-change-TBI-meta/blob/main/Burns_et_al_analysis.ipynb) - Jupyter notebook that contains the reproducible analysis
 3.  [Burns_et_al_PROSPERO_Registration.pdf](https://github.com/vaughanbell/personality-change-TBI-meta/blob/main/Burns_et_al_PROSPERO_Registration.pdf) - copy of PROSPERO preregistration
 
